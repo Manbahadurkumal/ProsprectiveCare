@@ -1,0 +1,79 @@
+.contact a i{
+    margin-right: 0.5rem;
+}
+.contact a{
+    margin-right: 1rem;
+    color: white;
+    text-decoration: none;
+}
+.header-top{
+    background-color: #082A4A;
+}
+.intro{
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+    background-image: url(images/1649333348291984962.jpg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.weoffer{
+    margin-top: 3rem;
+    padding-bottom: 3rem;
+}
+.w-75{
+    margin-left: 1rem;
+}
+.services{
+    background-color: #eef2f6;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+#left-to-right-gradient{
+    background: linear-gradient(90deg, #5a154a, #922278);
+}
+#left-to-right-gradient1{
+    background: linear-gradient(90deg, #a13172, #c33e8b);
+}
+#left-to-right-gradient2{
+    background: linear-gradient(270deg, #e73056, #e95038);
+}
+#left-to-right-gradient3{
+    background: linear-gradient(270deg, #f28a19, #f9b107);
+}
+#left-to-right-gradient4{
+    background: linear-gradient(270deg, #77ac43, #94ca5f);
+}
+#left-to-right-gradient5{
+    background: linear-gradient(270deg, #235683, #048fa3);
+}
+#left-to-right-gradient6{
+    background: linear-gradient(270deg, #48b2bc, #95d0d3);
+}
+#left-to-right-gradient7{
+    background: linear-gradient(270deg, #279a96, #2eaea9);
+}
+/* col-lg-5{
+    width: auto;
+} */
+.service-list{
+    height: 100%;
+}
+.feedback{
+    background-color: #eef2f6;
+}
+.footer{
+    background-color: #082a4a;
+}
+.footer-pseudo{
+    position: relative;
+    margin-bottom: 40px;
+}
+.footer-pseudo:after{
+    content: '';
+    position: absolute;
+    bottom: -15px;
+    left: 0;
+    width: 50px;
+    height: 3px;
+    background-color: blue;
+}
